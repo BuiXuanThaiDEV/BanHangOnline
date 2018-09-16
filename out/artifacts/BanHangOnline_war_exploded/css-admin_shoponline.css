@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#58ACFA;
+    font-family:sans-serif;
+}
+.header {
+    text-align:center;
+    background-color:red;
+}
+.insert_product h2{
+    text-align:center;
+    margin-top:20px;
+    box-sizing:border-box;
+    border:2px solid white;
+    background-color:white;
+    height:50px;
+    line-height:50px;
+}
+.insert_product form{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.input{
+    margin: 5px 5px 5px 30px;
+}
+.button_submit{
+    margin:15px 200px ;
+    height:30px; width:150px;
+    background-color:#555;
+    border-radius: 4px 0 0 4px;
+}
+.delete_product h2{
+    text-align:center;
+    margin-top:20px;
+    box-sizing:border-box;
+    border:2px solid white;
+    background-color:white;
+    height:50px;
+    line-height:50px;
+}
+
